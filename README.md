@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/y8yasj65n8gkxnp1?svg=true)](https://ci.appveyor.com/project/Vladimir8Grin/mobilebankapitest)
+[![Build status](https://ci.appveyor.com/api/projects/status/h8lltd37x3y56gpb?svg=true)](https://ci.appveyor.com/project/Vladimir8Grin/rest)
